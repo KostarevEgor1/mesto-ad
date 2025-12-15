@@ -1,5 +1,3 @@
-Стартовый набор для выполнения проектной работы Место
+https://github.com/KostarevEgor1/mesto-ad
 
-Для запуска приложения необходимо использовать live-server
-![изображение live-server](image.png)
-Live-server является расширением VSCode
+https://kostarevegor1.github.io/mesto-ad/
